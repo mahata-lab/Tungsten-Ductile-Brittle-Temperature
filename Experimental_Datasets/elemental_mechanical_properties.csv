@@ -1,0 +1,119 @@
+﻿element,shear modulus,Atomic number,poissons ratio,youngs modulus,bulk modulus
+Hydrogen,N/A,1,N/A,N/A,N/A
+Helium,N/A,2,N/A,N/A,N/A
+Lithium,4.2 GPa,3,N/A,4.9 GPa,11 GPa
+Beryllium,132 GPa,4,0.032,287 GPa,130 GPa
+Boron,N/A,5,N/A,N/A,320 GPa
+Carbon,N/A,6,N/A,N/A,33 GPa
+Nitrogen,N/A,7,N/A,N/A,N/A
+Oxygen,N/A,8,N/A,N/A,N/A
+Fluorine,N/A,9,N/A,N/A,N/A
+Neon,N/A,10,N/A,N/A,N/A
+Sodium,3.3 GPa,11,N/A,10 GPa,6.3 GPa
+Magnesium,17 GPa,12,0.29,45 GPa,45 GPa
+Aluminum,26 GPa,13,0.35,70 GPa,76 GPa
+Silicon,N/A,14,N/A,47 GPa,100 GPa
+Phosphorus,N/A,15,N/A,N/A,11 GPa
+Sulfur,N/A,16,N/A,N/A,7.7 GPa
+Chlorine,N/A,17,N/A,N/A,1.1 GPa
+Argon,N/A,18,N/A,N/A,N/A
+Potassium,1.3 GPa,19,N/A,N/A,3.1 GPa
+Calcium,7.4 GPa,20,0.31,20 GPa,17 GPa
+Scandium,29 GPa,21,0.28,74 GPa,57 GPa
+Titanium,44 GPa,22,0.32,116 GPa,110 GPa
+Vanadium,47 GPa,23,0.37,128 GPa,160 GPa
+Chromium,115 GPa,24,0.21,279 GPa,160 GPa
+Manganese,N/A,25,N/A,198 GPa,120 GPa
+Iron,82 GPa,26,0.29,211 GPa,170 GPa
+Cobalt,76 GPa,27,0.31,209 GPa,180 GPa
+Nickel,76 GPa,28,0.31,200 GPa,180 GPa
+Copper,48 GPa,29,0.34,130 GPa,140 GPa
+Zinc,43 GPa,30,0.25,108 GPa,70 GPa
+Gallium,N/A,31,N/A,N/A,N/A
+Germanium,N/A,32,N/A,N/A,N/A
+Arsenic,N/A,33,N/A,8 GPa,22 GPa
+Selenium,3.7 GPa,34,0.33,10 GPa,8.3 GPa
+Bromine,N/A,35,N/A,N/A,1.9 GPa
+Krypton,N/A,36,N/A,N/A,N/A
+Rubidium,N/A,37,N/A,2.4 GPa,2.5 GPa
+Strontium,6.1 GPa,38,0.28,N/A,N/A
+Yttrium,26 GPa,39,0.24,64 GPa,41 GPa
+Zirconium,33 GPa,40,0.34,67 GPa,N/A
+Niobium,38 GPa,41,0.4,105 GPa,170 GPa
+Molybdenum,20 GPa,42,0.31,329 GPa,230 GPa
+Technetium,N/A,43,N/A,N/A,N/A
+Ruthenium,173 GPa,44,0.3,447 GPa,220 GPa
+Rhodium,150 GPa,45,0.26,275 GPa,380 GPa
+Palladium,44 GPa,46,0.39,121 GPa,180 GPa
+Silver,30 GPa,47,0.37,85 GPa,100 GPa
+Cadmium,19 GPa,48,0.3,50 GPa,42 GPa
+Indium,N/A,49,N/A,11 GPa,N/A
+Tin,18 GPa,50,0.36,50 GPa,58 GPa
+Antimony,20 GPa,51,N/A,55 GPa,42 GPa
+Tellurium,16 GPa,52,N/A,43 GPa,64 GPa
+Iodine,N/A,53,N/A,N/A,7.7 GPa
+Xenon,N/A,54,N/A,N/A,N/A
+Cesium,N/A,55,N/A,1.7 GPa,1.6 GPa
+Barium,4.9 GPa,56,N/A,13 GPa,9.4 GPa
+Lanthanum,14 GPa,57,0.28,37 GPa,28 GPa
+Cerium,14 GPa,58,0.24,34 GPa,22 GPa
+Praseodymium,15 GPa,59,0.28,37 GPa,29 GPa
+Neodymium,16 GPa,60,0.28,41 GPa,32 GPa
+Promethium,18 GPa,61,0.28,46 GPa,33 GPa
+Samarium,20 GPa,62,0.27,50 GPa,38 GPa
+Europium,7.9 GPa,63,0.15,18 GPa,8.3 GPa
+Gadolinium,22 GPa,64,0.26,55 GPa,38 GPa
+Terbium,22 GPa,65,0.26,56 GPa,38.7 GPa
+Dysprosium,25 GPa,66,0.25,61 GPa,41 GPa
+Holmium,26 GPa,67,0.23,64 GPa,40 GPa
+Erbium,28 GPa,68,0.24,70 GPa,44 GPa
+Thulium,31 GPa,69,0.21,74 GPa,45 GPa
+Ytterbium,10 GPa,70,0.21,24 GPa,31 GPa
+Lutetium,27 GPa,71,0.26,67 GPa,48 GPa
+Hafnium,30 GPa,72,0.37,78 GPa,110 GPa
+Tantalum,67 GPa,73,0.34,186 GPa,200 GPa
+Tungsten,161 GPa,74,0.28,411 GPa,310 GPa
+Rhenium,178 GPa,75,0.3,463 GPa,370 GPa
+Osmium,222 GPa,76,0.25,N/A,N/A
+Iridium,210 GPa,77,0.26,528 GPa,320 GPa
+Platinum,61 GPa,78,0.38,168 GPa,230 GPa
+Gold,27 GPa,79,0.44,78 GPa,220 GPa
+Mercury,N/A,80,N/A,N/A,25 GPa
+Thallium,2.8 GPa,81,0.45,8 GPa,43 GPa
+Lead,5.6 GPa,82,0.44,16 GPa,46 GPa
+Bismuth,12 GPa,83,0.33,32 GPa,31 GPa
+Polonium,N/A,84,N/A,N/A,N/A
+Astatine,N/A,85,N/A,N/A,N/A
+Radon,N/A,86,N/A,N/A,N/A
+Francium,N/A,87,N/A,N/A,N/A
+Radium,N/A,88,N/A,N/A,N/A
+Actinium,N/A,89,N/A,N/A,N/A
+Thorium,31 GPa,90,0.27,79 GPa,54 GPa
+Protactinium,N/A,91,N/A,N/A,N/A
+Uranium,111 GPa,92,0.23,208 GPa,100 GPa
+Neptunium,N/A,93,N/A,N/A,N/A
+Plutonium,43 GPa,94,0.21,96 GPa,N/A
+Americium,N/A,95,N/A,N/A,N/A
+Curium,N/A,96,N/A,N/A,N/A
+Berkelium,N/A,97,N/A,N/A,N/A
+Californium,N/A,98,N/A,N/A,N/A
+Einsteinium,N/A,99,N/A,N/A,N/A
+Fermium,N/A,100,N/A,N/A,N/A
+Mendelevium,N/A,101,N/A,N/A,N/A
+Nobelium,N/A,102,N/A,N/A,N/A
+Lawrencium,N/A,103,N/A,N/A,N/A
+Rutherfordium,N/A,104,N/A,N/A,N/A
+Dubnium,N/A,105,N/A,N/A,N/A
+Seaborgium,N/A,106,N/A,N/A,N/A
+Bohrium,N/A,107,N/A,N/A,N/A
+Hassium,N/A,108,N/A,N/A,N/A
+Meitnerium,N/A,109,N/A,N/A,N/A
+Darmstadtium,N/A,110,N/A,N/A,N/A
+Roentgenium,N/A,111,N/A,N/A,N/A
+Copernicium,N/A,112,N/A,N/A,N/A
+Nihonium,N/A,113,N/A,N/A,N/A
+Flerovium,N/A,114,N/A,N/A,N/A
+Moscovium,N/A,115,N/A,N/A,N/A
+Livermorium,N/A,116,N/A,N/A,N/A
+Tennessine,N/A,117,N/A,N/A,N/A
+Oganesson,N/A,118,N/A,N/A,N/A
