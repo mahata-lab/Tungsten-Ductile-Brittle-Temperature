@@ -15,6 +15,6 @@ https://link.aps.org/accepted/10.1103/PhysRevLett.130.166101
 
 6. elemental_mechanical_data.csv: https://periodictable.com/Properties/A/ShearModulus.an.html (example property)
 
-7. total_rom_dataset.csv: curated/created from (3,4,5,6)
+7. ROM_dataset.csv: curated/created from (3,4,5,6)
 
 8. DBTT_dataset.xlsx: curated
