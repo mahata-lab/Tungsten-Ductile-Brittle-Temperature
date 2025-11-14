@@ -18,3 +18,6 @@ https://link.aps.org/accepted/10.1103/PhysRevLett.130.166101
 7. ROM_dataset.csv: curated/created from (3,4,5,6)
 
 8. DBTT_dataset.xlsx: curated
+
+9. GE_RefractoryAlloyScreeningDataset_FINAL.csv: Refractory high entropy alloy dataset with room temperature ductility screening
+https://www.sciencedirect.com/science/article/pii/S2352340922007892#refdata001
