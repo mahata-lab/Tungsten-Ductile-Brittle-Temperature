@@ -18,3 +18,4 @@ Ductility_Classification.ipynb
 
 Datasets
 
+The DFT runs are available in https://zenodo.org/records/20835365 
