@@ -1,7 +1,0 @@
-,candidate,is_ductile,compressive strain (%),correct_prediction
-0,MoNbTaWTiHfZr,True,15.5,True
-1,MoWReRu,False,0.1,True
-2,MoNbWReHf,False,0.1,True
-3,MoNbTaWZr,True,15.9,False
-4,TaWHfRu,False,0.1,True
-5,TaVWCr,False,1.5,True
